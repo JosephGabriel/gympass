@@ -15,7 +15,7 @@ body{
 
 .navbar{
     background:#fff !important; 
-    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.10);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.033);
 }
 
 .hero{ 
@@ -39,4 +39,8 @@ body{
 .card-accent{
     border: 1px solid #cb5df1;
     border-top: 10px solid #cb5df1;
+}
+
+.card-height{
+    height: 420px;
 }
